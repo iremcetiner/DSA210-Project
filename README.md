@@ -30,7 +30,7 @@ The data will be collected from the following sources:
 
 # Report
 ## Introduction
-The main objective of this project is to analyze the relationship between weather conditions, temperature, time of day, and day of the week on daily stress levels. This study aims to determine how these external factors influence fluctuations in stress throughout the day. By identifying patterns and correlations in the data, the project seeks to provide data-driven insights that may help improve stress awareness, support personal well-being decisions, and  contribute to better lifestyle management.
+The main objective of this project is to analyze the relationship between weather condition, temperature and stress levels with the factors: time of day, and day of the week. This study aims to determine how these external factors influence fluctuations in stress throughout the day. By identifying patterns and correlations in the data, the project seeks to provide data-driven insights that may help improve stress awareness, support personal well-being decisions, and  contribute to better lifestyle management.
 
 ## Restating Hypothesis
 * Null Hypothesis (H₀): There is no significant relationship between temperature, weather condition and stress levels. Increase in temperature and improvement in weather condition do not significantly affect stress levels throughout the day.
