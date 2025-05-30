@@ -58,7 +58,8 @@ Model performance was assessed using:
 * Actual vs. predicted stress levels were visualized with scatter plots to assess model fit.
 
 ## Machine Learning Test Result
-<img width="658" alt="Model Performance Comparison" src="https://github.com/user-attachments/assets/ca0f3bb2-2e18-4e52-8f34-dc673e2e2d7a" />
+<img width="512" alt="Screenshot 2025-05-30 at 16 51 40" src="https://github.com/user-attachments/assets/084e7f2e-ffd5-4f7f-b025-08540b2083b5" />
+
 
 ## Findings
 The analysis revealed that weather conditions, temperature, time of day, and day of the week have only a modest impact on daily stress levels. Specifically:
